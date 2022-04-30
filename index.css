@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+body{
+    font-size: small;
+}
+h1{
+    margin-left: 5px;
+    padding-bottom: 10px;
+}
+
+#Box-1{
+    margin-left: 5px;
+    padding-bottom: 5px;
+}
+#Box-2{
+    margin-left: 5px;
+    padding-bottom: 5px
+}
+#Box-3{
+    margin-left: 5px;
+    margin-bottom: 5px;
+}
+#Box-4{
+    margin-left: 5px;
+    margin-bottom: 10px;
+
+}
+#Box-5{
+    margin-left: 5px;
+    margin-bottom: 5px;
+}
+#Box-6{
+    margin-left: 5px;
+    margin-bottom: 5px;
+}
+#Box-7{
+    margin-left: 5px;
+    margin-bottom: 5px;
+}
+#Box-8{
+    margin-left: 5px;
+}
